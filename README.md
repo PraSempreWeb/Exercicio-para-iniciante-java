@@ -1,6 +1,6 @@
 # Fala Devs :vulcan_salute:
 
-## Exercicio para iniciante - java  
+## Exercicio para iniciante - java   :man_technologist:
 ## Array (Jogo de Cartas) :black_joker:
 
 ### Programa ao se executado, mostrará a face da carta, seu Nipe. Bora jogar!  
