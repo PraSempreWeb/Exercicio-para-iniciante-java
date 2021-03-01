@@ -3,10 +3,9 @@
 ## Exercicio para iniciante - java  
 ## Array (Jogo de Cartas) :black_joker:
 
+## Programa ao se executado, mostrará a face da carta e seu Nipe. Bora jogar!  
+
 ```
-Programa ao se executado, mostrará a face da carta e seu Nipe. Bora jogar!
-
-
 public class JogoCartas {
 	public static void main(String[] args) {
 		
