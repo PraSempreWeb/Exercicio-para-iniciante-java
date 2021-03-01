@@ -1,10 +1,10 @@
 # Fala Devs :vulcan_salute:
 
-## Exercicio para iniciante - java  :black_joker:
-## Array (Jogo de Cartas) 
+## Exercicio para iniciante - java  
+## Array (Jogo de Cartas) :black_joker:
 
 ```
-programa ao se executado, mostrará a face da carta e seu Nipe. Bora jogar!
+Programa ao se executado, mostrará a face da carta e seu Nipe. Bora jogar!
 
 
 public class JogoCartas {
